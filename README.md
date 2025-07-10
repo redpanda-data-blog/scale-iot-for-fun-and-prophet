@@ -1,1 +1,1 @@
-# talk-iot-for-fun-and-prophet
+# scale-iot-for-fun-and-prophet
